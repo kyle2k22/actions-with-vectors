@@ -1,0 +1,4 @@
+﻿  OOP kursovaya.cpp
+C:\Users\sereg\source\repos\OOP kursovaya\OOP kursovaya\OOP kursovaya.cpp(51,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\sereg\source\repos\OOP kursovaya\OOP kursovaya\OOP kursovaya.cpp(149): warning C4172: возвращение адреса локальной или временной переменной : vec_list
+  OOP kursovaya.vcxproj -> C:\Users\sereg\source\repos\OOP kursovaya\Debug\OOP kursovaya.exe
